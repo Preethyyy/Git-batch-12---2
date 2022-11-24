@@ -10,5 +10,9 @@ public class sample {
       
      int b = 200;
      System.out.println(b);
+     
+     
+     int c = 300;
+     System.out.println(c);
 }
 	}
